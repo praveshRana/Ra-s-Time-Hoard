@@ -1,0 +1,29 @@
+body {
+  background-color: #EBF2F9;
+}
+
+.verticalLine {
+  border-left-style: solid;
+  border-left-color: #0B345B;
+  border-left-width: 4px;
+}
+
+#rapic {
+  border-radius: 150px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #212F3C;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #0B345B;
+}
+
+h3 {
+  color: #0B345B;
+}
